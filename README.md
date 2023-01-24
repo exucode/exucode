@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @exucode
-- 👀 I’m interested in learning Powershell, and some general web development.
-- 🌱 I’m currently learning ... Python, and Linux CLI
+- 👀 I’m interested in learning Python, and some general web development.
+- 🌱 I’m currently learning ... Game dev, and Linux CLI
 - 💞️ I’m looking to collaborate on ..... some games using pygame, apps and templates
 - 📫 How to reach me ... exucode@gmail.com
 
